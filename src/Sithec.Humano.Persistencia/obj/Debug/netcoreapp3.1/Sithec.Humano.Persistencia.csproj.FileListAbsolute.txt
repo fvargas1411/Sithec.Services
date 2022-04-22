@@ -1,0 +1,12 @@
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Persistencia\bin\Debug\netcoreapp3.1\Sithec.Humano.Persistencia.deps.json
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Persistencia\bin\Debug\netcoreapp3.1\Sithec.Humano.Persistencia.runtimeconfig.json
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Persistencia\bin\Debug\netcoreapp3.1\Sithec.Humano.Persistencia.runtimeconfig.dev.json
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Persistencia\bin\Debug\netcoreapp3.1\Sithec.Humano.Persistencia.dll
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Persistencia\bin\Debug\netcoreapp3.1\Sithec.Humano.Persistencia.pdb
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Persistencia\obj\Debug\netcoreapp3.1\Sithec.Humano.Persistencia.AssemblyInfoInputs.cache
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Persistencia\obj\Debug\netcoreapp3.1\Sithec.Humano.Persistencia.AssemblyInfo.cs
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Persistencia\obj\Debug\netcoreapp3.1\Sithec.Humano.Persistencia.csproj.CoreCompileInputs.cache
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Persistencia\obj\Debug\netcoreapp3.1\Sithec.Humano.Persistencia.dll
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Persistencia\obj\Debug\netcoreapp3.1\Sithec.Humano.Persistencia.pdb
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Persistencia\obj\Debug\netcoreapp3.1\Sithec.Humano.Persistencia.genruntimeconfig.cache
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Persistencia\obj\Debug\netcoreapp3.1\Sithec.Humano.Persistencia.csprojAssemblyReference.cache

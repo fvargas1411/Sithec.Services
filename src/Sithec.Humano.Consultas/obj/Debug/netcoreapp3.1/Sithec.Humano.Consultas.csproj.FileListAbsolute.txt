@@ -1,0 +1,16 @@
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Consultas\bin\Debug\netcoreapp3.1\Sithec.Humano.Dto.dll
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Consultas\obj\Debug\netcoreapp3.1\Sithec.Humano.Consultas.csprojAssemblyReference.cache
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Consultas\obj\Debug\netcoreapp3.1\Sithec.Humano.Consultas.AssemblyInfoInputs.cache
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Consultas\obj\Debug\netcoreapp3.1\Sithec.Humano.Consultas.AssemblyInfo.cs
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Consultas\bin\Debug\netcoreapp3.1\Sithec.Humano.Consultas.deps.json
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Consultas\bin\Debug\netcoreapp3.1\Sithec.Humano.Consultas.dll
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Consultas\bin\Debug\netcoreapp3.1\Sithec.Humano.Consultas.pdb
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Consultas\bin\Debug\netcoreapp3.1\Sithec.Humano.Dto.pdb
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Consultas\obj\Debug\netcoreapp3.1\Sithec.Humano.Consultas.csproj.CoreCompileInputs.cache
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Consultas\obj\Debug\netcoreapp3.1\Sithec.Humano.Consultas.csproj.CopyComplete
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Consultas\obj\Debug\netcoreapp3.1\Sithec.Humano.Consultas.dll
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Consultas\obj\Debug\netcoreapp3.1\Sithec.Humano.Consultas.pdb
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Consultas\bin\Debug\netcoreapp3.1\Sithec.Humano.Comandos.dll
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Consultas\bin\Debug\netcoreapp3.1\Sithec.Humano.Comandos.pdb
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Consultas\bin\Debug\netcoreapp3.1\Sithec.Humano.Dominio.dll
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Consultas\bin\Debug\netcoreapp3.1\Sithec.Humano.Dominio.pdb

@@ -1,0 +1,9 @@
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Dto\bin\Debug\netcoreapp3.1\Sithec.Humano.Dto.deps.json
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Dto\bin\Debug\netcoreapp3.1\Sithec.Humano.Dto.dll
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Dto\bin\Debug\netcoreapp3.1\Sithec.Humano.Dto.pdb
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Dto\obj\Debug\netcoreapp3.1\Sithec.Humano.Dto.csprojAssemblyReference.cache
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Dto\obj\Debug\netcoreapp3.1\Sithec.Humano.Dto.AssemblyInfoInputs.cache
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Dto\obj\Debug\netcoreapp3.1\Sithec.Humano.Dto.AssemblyInfo.cs
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Dto\obj\Debug\netcoreapp3.1\Sithec.Humano.Dto.csproj.CoreCompileInputs.cache
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Dto\obj\Debug\netcoreapp3.1\Sithec.Humano.Dto.dll
+E:\Trabajo\Varios\Resume\Sithec\Sithec.Services\src\Sithec.Humano.Dto\obj\Debug\netcoreapp3.1\Sithec.Humano.Dto.pdb

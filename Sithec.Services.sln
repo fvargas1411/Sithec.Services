@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Humano", "Humano", "{246A7839-475F-42BF-A97D-E3005B5B256F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{9EF977AD-F598-46B9-B65D-26EEC5297D65}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{2A8454DD-C13C-4D4F-89AC-027848038E88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sithec.Humano.Api", "src\Sithec.Humano.Api\Sithec.Humano.Api.csproj", "{12188F1A-6E27-4F38-AB0C-047373B1A049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sithec.Humano.Comandos", "src\Sithec.Humano.Comandos\Sithec.Humano.Comandos.csproj", "{3DD977B0-06EC-4961-8ED5-537F5DB3A01B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sithec.Humano.Consultas", "src\Sithec.Humano.Consultas\Sithec.Humano.Consultas.csproj", "{2044C79C-A2E9-4174-85FD-242FDC2EB0FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sithec.Humano.Dto", "src\Sithec.Humano.Dto\Sithec.Humano.Dto.csproj", "{C725786C-A64A-436C-9209-01BF8C1A9690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sithec.Humano.Persistencia", "src\Sithec.Humano.Persistencia\Sithec.Humano.Persistencia.csproj", "{E847184B-2981-4EB1-BC1C-66F29027BE62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sithec.Humano.Console", "src\Sithec.Humano.Console\Sithec.Humano.Console.csproj", "{E2B9FA05-E0F9-468E-A360-8267BCB3527D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Migracion", "Migracion", "{BD2347A3-49AF-410D-A280-2DC965011D60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sithec.Humano.Dominio", "src\Sithec.Humano.Dominio\Sithec.Humano.Dominio.csproj", "{C2683F10-3A56-43E9-9624-BD93DC2C24E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12188F1A-6E27-4F38-AB0C-047373B1A049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12188F1A-6E27-4F38-AB0C-047373B1A049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12188F1A-6E27-4F38-AB0C-047373B1A049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12188F1A-6E27-4F38-AB0C-047373B1A049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DD977B0-06EC-4961-8ED5-537F5DB3A01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD977B0-06EC-4961-8ED5-537F5DB3A01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD977B0-06EC-4961-8ED5-537F5DB3A01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD977B0-06EC-4961-8ED5-537F5DB3A01B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2044C79C-A2E9-4174-85FD-242FDC2EB0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2044C79C-A2E9-4174-85FD-242FDC2EB0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2044C79C-A2E9-4174-85FD-242FDC2EB0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2044C79C-A2E9-4174-85FD-242FDC2EB0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C725786C-A64A-436C-9209-01BF8C1A9690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C725786C-A64A-436C-9209-01BF8C1A9690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C725786C-A64A-436C-9209-01BF8C1A9690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C725786C-A64A-436C-9209-01BF8C1A9690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E847184B-2981-4EB1-BC1C-66F29027BE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E847184B-2981-4EB1-BC1C-66F29027BE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E847184B-2981-4EB1-BC1C-66F29027BE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E847184B-2981-4EB1-BC1C-66F29027BE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B9FA05-E0F9-468E-A360-8267BCB3527D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B9FA05-E0F9-468E-A360-8267BCB3527D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B9FA05-E0F9-468E-A360-8267BCB3527D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B9FA05-E0F9-468E-A360-8267BCB3527D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2683F10-3A56-43E9-9624-BD93DC2C24E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2683F10-3A56-43E9-9624-BD93DC2C24E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2683F10-3A56-43E9-9624-BD93DC2C24E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2683F10-3A56-43E9-9624-BD93DC2C24E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9EF977AD-F598-46B9-B65D-26EEC5297D65} = {246A7839-475F-42BF-A97D-E3005B5B256F}
+		{2A8454DD-C13C-4D4F-89AC-027848038E88} = {246A7839-475F-42BF-A97D-E3005B5B256F}
+		{12188F1A-6E27-4F38-AB0C-047373B1A049} = {9EF977AD-F598-46B9-B65D-26EEC5297D65}
+		{3DD977B0-06EC-4961-8ED5-537F5DB3A01B} = {2A8454DD-C13C-4D4F-89AC-027848038E88}
+		{2044C79C-A2E9-4174-85FD-242FDC2EB0FB} = {2A8454DD-C13C-4D4F-89AC-027848038E88}
+		{C725786C-A64A-436C-9209-01BF8C1A9690} = {2A8454DD-C13C-4D4F-89AC-027848038E88}
+		{E847184B-2981-4EB1-BC1C-66F29027BE62} = {BD2347A3-49AF-410D-A280-2DC965011D60}
+		{E2B9FA05-E0F9-468E-A360-8267BCB3527D} = {BD2347A3-49AF-410D-A280-2DC965011D60}
+		{BD2347A3-49AF-410D-A280-2DC965011D60} = {246A7839-475F-42BF-A97D-E3005B5B256F}
+		{C2683F10-3A56-43E9-9624-BD93DC2C24E6} = {2A8454DD-C13C-4D4F-89AC-027848038E88}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CCE8850-5370-48B8-A87F-B16C991FDE43}
+	EndGlobalSection
+EndGlobal
